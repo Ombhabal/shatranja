@@ -1,0 +1,13 @@
+{
+  
+    "name": "satranj-by-om-bhabal",
+    "description": "Deploying files from my Git repository",
+    "scripts": {
+      "deploy": "git clone https://github.com/Ombhabal/satranj-by-om-bhabal.git && cp -r satranj-by-om-bhabal/* dist/index.html"
+    },
+  
+  "dependencies": {
+    "g": "^2.0.1",
+    "yarn": "^1.22.19"
+  }
+}
