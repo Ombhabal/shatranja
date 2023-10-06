@@ -19,7 +19,7 @@ To get started with this project, follow these steps:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/player-vs-player-chess.git
+   git clone https://github.com/Ombhabal/satranj-by-om-bhabal/tree/main
    ```
 
 2. Open the project folder in your code editor of choice.
