@@ -1,4 +1,9 @@
 {
+  {
+	"name": "Shatranj",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",,
   "dependencies": {
     "g": "^2.0.1",
     "yarn": "^1.22.19"
